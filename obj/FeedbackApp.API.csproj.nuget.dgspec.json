@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\labadmin\\varun\\SmartBackend\\FeedbackApp.API\\FeedbackApp.API.csproj": {}
+    "C:\\Users\\labadmin\\SmartFeedBack-Backend\\FeedbackApp.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\labadmin\\varun\\SmartBackend\\FeedbackApp.API\\FeedbackApp.API.csproj": {
+    "C:\\Users\\labadmin\\SmartFeedBack-Backend\\FeedbackApp.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\labadmin\\varun\\SmartBackend\\FeedbackApp.API\\FeedbackApp.API.csproj",
+        "projectUniqueName": "C:\\Users\\labadmin\\SmartFeedBack-Backend\\FeedbackApp.API.csproj",
         "projectName": "FeedbackApp.API",
-        "projectPath": "C:\\Users\\labadmin\\varun\\SmartBackend\\FeedbackApp.API\\FeedbackApp.API.csproj",
+        "projectPath": "C:\\Users\\labadmin\\SmartFeedBack-Backend\\FeedbackApp.API.csproj",
         "packagesPath": "C:\\Users\\labadmin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\labadmin\\varun\\SmartBackend\\FeedbackApp.API\\obj\\",
+        "outputPath": "C:\\Users\\labadmin\\SmartFeedBack-Backend\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\labadmin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\labadmin\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -88,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
